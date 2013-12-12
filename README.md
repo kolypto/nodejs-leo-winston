@@ -120,6 +120,14 @@ logger.error('message');
 ```
 
 
+Propagation Concepts
+--------------------
+
+1. When anything is logged to logger 'A.B.C.D', the message propagates up to loggers 'A.B.C', 'A.B', 'A' and 'root'
+2. If any of the intermediate loggers does not exist - no problem: the message proceeds going up through the chain
+2. If any logger is configured with `propagation: false`, the message propagation stops on it.
+
+
 
 
 
