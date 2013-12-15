@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kolypto/nodejs-leo-winston.png?branch=master)](https://travis-ci.org/kolypto/nodejs-leo-winston)
+
 Leo-Winston
 ===========
 
