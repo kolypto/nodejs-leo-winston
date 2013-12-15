@@ -1,3 +1,5 @@
+[![Version](https://badge.fury.io/js/leo-winston.png)](https://npmjs.org/package/leo-winston)
+[![Dependency Status](https://gemnasium.com/kolypto/nodejs-leo-winston.png)](https://gemnasium.com/kolypto/nodejs-leo-winston)
 [![Build Status](https://travis-ci.org/kolypto/nodejs-leo-winston.png?branch=master)](https://travis-ci.org/kolypto/nodejs-leo-winston)
 
 Leo-Winston
